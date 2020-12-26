@@ -1,0 +1,300 @@
+Seed: 4FYKT1 (234,037,231)
+	no (double?) snipe; 9 fights; WW after mask gang
+#####################################
+Seed: 
+	519NTL (264,525,051)
+	3/3/3; 0 elites, 3 bosses, 6 common enemies
+	amazing relics, but no WW :(
+#####################################
+Seed: 
+	51E7AE (264,719,189)
+	3/3/2; 0 elites, 3 bosses, 5 commons
+	no WW, match and keep :(
+#####################################
+Seed: 
+	55G6W0 (270,806,935)
+	2/3/3; 3 bosses, double snipe available; 1 elite; 5 commons
+	no WW :(
+#####################################
+Seed: 
+	560P7N (271,642,793)
+	4/2/2; 2 elites (sniped), 3 bosses (no snipe), 3 common enemies
+	Match and Keep :(
+	early WW; many flexes; limit breaks; lantern; double tap
+14 relics:
+	[Blood Vial Red Skull Juzu Bracelet Ginger, **WingedGreaves**, Golden Idol, Pandora's Box]
+	[Smiling Mask, Spirit Poop]
+	[Mark of the Bloom, Bottled Tornado, Paper Frog]
+True map path:
+0	Neow
+			[Burning Blood, NeowsBlessing]
+1	M 	2 Louse
+			[Body Slam, Disarm, Hemokinesis]
+2	S 
+			[Girya, MealTicket, Orrery]
+			[Perfected Strike, Cleave, Warcry, **Flex**, Metallicize, Enlightenment, *Master of Strategy*] 
+3	? 	Liars Game
+			[Doubt]
+4	S 
+			[Bag of Preparation, **Vajra**, Lee's Waffle] 
+			[**Whirlwind**, Clash, **Flex**, **Limit Break**, Rupture, Swift Strike, Thinking Ahead] 
+5	? 	World of Goop		
+6	E 	Lagavulin 
+			[Carnage, Body Slam, Cleave] 
+			[DexterityPotio]
+7	R 
+8	?/T 
+9	T 
+10	E 	Gremlin Nob		
+			[Anger, Dropkick, **Flex**] 
+			[DexterityPotion]
+11	R 
+12	? 	Transmorgrifier		
+13	?/S 
+			[**Lantern**, **WingedGreaves**, HandDrill]
+			[Rampage, Pommel Strike, Warcry, Shrug It Off, Corruption, Flash of Steel, Panache] 
+14	? 	Golden Idol		
+15	R 
+16	BOSS 	Slime Boss		
+			[Berserk, Demon Form, **Double Tap**]
+17			[**Pandora's Box**, Busted Crown, Ectoplasm] 
+			[Flame Barrier, Demon Form, Offering, Carnage, Burning Pact, Seeing Red, Reckless Charge, Twin Strike, Pummel]
+18	M 	2 Thieves 
+			[Reckless Charge, Clothesline, Ghostly Armor]
+19	S 
+			[Dream Catcher, Self Forming Clay, PrismaticShard] 
+			[Bludgeon, Thunderclap, Armaments, Second Wind, Combust, Impatience, Secret Technique] 
+20	? 	Accursed Blacksmith	
+21	S 
+			[Mercury Hourglass, Unceasing Top, TheAbacus] 
+			[Perfected Strike, Heavy Blade, Shrug It Off, True Grit, Inflame, Blind, Chrysalis] 
+22	? 	Vampires		
+23	R 
+24	S 
+			[Pear, Letter Opener, ClockworkSouvenir] 
+			[Rampage, Bludgeon, Second Wind, Power Through, Combust, Mind Blast, Thinking Ahead] 
+25	? 	Back to Basics		
+26	T 
+27	R 
+28	? 	Match and Keep!		:(((
+			[Inflame, Panacea, Twin Strike, Offering, Panacea, Inflame, Bash, Twin Strike, Writhe, Offering, Writhe, Bash]
+29	R 
+30	? 	Bonfire Elementals	
+31	?/S 
+			[Frozen Egg 2, HornCleat, Strange Spoon] 
+			[Twin Strike, Pummel, True Grit, Infernal Blade, Dark Embrace, Trip, Mayhem] 
+32	R 
+33	BOSS 	Collector 
+			[**Double Tap**, Bludgeon, **Limit Break**]
+34			[Runic Cube, **Fusion Hammer**, Runic Pyramid]
+35	M 	3 Darklings 
+			[Power Through, Body Slam+, Rupture+]
+36	S 
+			[**Sundial**, Peace Pipe, DollysMirror] 
+			[Rampage, **Whirlwind**, Shrug It Off, Armaments, Feel No Pain, Blind, Hand of Greed] 
+37	? 	MindBloom		 
+38	? 	Lab 
+			[PowerPotion, SpeedPotion, PowerPotion]
+39	? 	Winding Halls		
+40	R 
+41	R 
+42	?/T 
+43	T 
+44	? 	Falling			
+45	? 	SensoryStone		
+			[Dramatic Entrance, Deep Breath, Good Instincts] 
+			[Thinking Ahead, Blind, Mind Blast] 
+			[Master of Strategy, Impatience, Discovery]
+46	? 	Mysterious Sphere	
+47	? 	Tomb of Lord Red Mask	
+48	S 
+			[Regal Pillow, Incense Burner, Frozen Eye] 
+			[Pommel Strike, Clothesline, Warcry, Ghostly Armor, Inflame, Jack of All Trades, Chrysalis]
+49	R 
+50	BOSS	Donu and Deca	
+#####################################
+Seed: 56BWHX (272,123,352)
+	[no WW, no boss snipe]
+#####################################
+Seed: 58BIK8 (275,108,758)
+	13 relics
+	2/3/4; 3 bosses (double snipe available), 1 elite, 5 common enemies
+	early WW; vajra, limit breaks, seeing red, flexes, marbles, necronomicon, tea set
+	match and keep :(
+True map path:
+0	Neow
+				[Burning Blood, NeowsBlessing]
+1	M 	Small Slimes 
+				[**Whirlwind**, Metallicize, *Battle Trance*] 
+				[SteroidPotion]
+2	S 
+				[Whetstone, Mercury Hourglass, Frozen Eye] 
+				[Anger, Cleave, Infernal Blade, Second Wind, Dark Embrace, Purity, Chrysalis]
+3	? 	The Cleric 
+4	? 	Scrap Ooze 
+				[**Juzu Bracelet**] 
+5	?/S 
+				[Toxic Egg 2, Mummified Hand, Membership Card] 
+				[Twin Strike, Thunderclap, Shrug It Off, Warcry, Feel No Pain, Good Instincts, Metamorphosis]
+6	R 
+7	? 	WeMeetAgain 
+				[**WingedGreaves**] 
+8	R 
+9	T 
+				[Centennial Puzzle] 
+10	? 	Mushrooms 
+				[Parasite]
+11	? 	Golden Shrine 
+12	? 	Golden Wing 
+13	? 	Big Fish 
+				[**Vajra**]
+				[Regret]
+14	? 	Dead Adventurer 
+15	R 
+16	BOSS 	Slime Boss 
+				[**Limit Break**, Offering, Corruption]
+17				[Fusion Hammer, Empty Cage, **Pandora's Box**] 
+				[Ghostly Armor, Carnage, Cleave, Shockwave, Offering, Uppercut, Burning Pact, Dual Wield, Impervious]
+%18	BOSS 	Slime Boss
+%19				[Black Star, SacredBark, Mark of Pain]
+20	M 	3 Byrds 
+				[Pommel Strike+, Anger, *Battle Trance*]
+21	? 	The Library 
+				[**Flex**, Searing Blow, Dual Wield, Iron Wave, Anger, Hemokinesis, Cleave, Infernal Blade, Shrug It Off, 
+				Infernal Blade, Perfected Strike, Clothesline, Rupture, Rage, Sword Boomerang, Infernal Blade, Disarm, 
+				Pommel Strike, Metallicize, Searing Blow]
+22	? 	Beggar 
+				[**Bag of Marbles**] 
+23	? 	Wheel of Change 	:(
+24	S 
+				[Anchor, Charon's Ashes, Lee's Waffle] 
+				[Headbutt, Rampage, **Flex**, **Limit Break**, Metallicize, Flash of Steel, Metamorphosis]
+25	R 
+26	? 	Cursed Tome 
+				[**Necronomicon**] 
+				[Necronomicurse]
+27	? 	Back to Basics 
+28	T 
+				[Self Forming Clay] 
+29	M 	Shell Parasite 
+				[**Seeing Red**, Pommel Strike, Cleave]
+30	R 
+31	? 	Accursed Blacksmith 
+32	S 
+				[Strawberry, InkBottle, Medical Kit] 
+				[Clash, Reckless Charge, Shrug It Off, **Flex**, Fire Breathing, Enlightenment, Hand of Greed] 
+33	S 
+				[**Ancient Tea Set**, PreservedInsect] 
+				[Thunderclap, Sword Boomerang, **Limit Break**, Armaments, Dark Embrace, Panic Button, Metamorphosis] 
+34	R 
+35	BOSS 	Collector 
+				[Feed, **Limit Break**, Corruption] 
+				[FearPotion]
+36 				[Black Star, SacredBark, Mark of Pain] % [???, ???, ???]
+37	M 	Orb Walker 
+				[Warcry+, Headbutt+, True Grit]
+38	? 	Mysterious Sphere 
+39	? 	Winding Halls 
+40	? 	MindBloom 
+				[Mark of the Bloom]
+41	? 	SensoryStone 
+				[Blind, Thinking Ahead, Trip] 
+				[Dark Shackles, Good Instincts, Bandage Up] 
+				[Mind Blast, Dramatic Entrance, Violence]
+42	R 
+43	E 	Reptomancer 
+				[Ghostly Armor, Sword Boomerang+, Cleave]
+				[Eternal Feather] 
+44	M 	3 Darklings 
+				[Clothesline, Sever Soul, Perfected Strike] 
+				[EntropicBrew]
+45	T 
+				[Ginger]
+46	? 	Match and Keep!			:(((
+				[Mind Blast, Pain, Fiend Fire, Shrug It Off, Bash, Battle Trance]
+47	R 
+48	? 	Designer 
+49	? 	Tomb of Lord Red Mask
+50	S 
+				[HandDrill, War Paint, Pear, Orrery] 
+				[Searing Blow, Reckless Charge, **Flex**, True Grit, Feel No Pain, Impatience, Panache]
+51	R 
+52	BOSS	Donu and Deca
+####################################
+Seed: 58E15T (275,216,053)
+	[2 Louse, Small Slimes, Jaw Worm, Slime Boss, 3 Byrds, Collector, 3 Shapes, Orb Walker, Donu and Deca]
+#####################################
+Seed: 58MKU0 (275,583,140)
+	5/2/2 lol
+#####################################
+Seed: 58S1LR (275,773,986)
+	5/2/2 lol
+#####################################
+Seed: 5B05ZU (279,123,594)
+	boss snipe, but late pandora's
+#####################################
+Seed: 5FPT75 (286,182,300)
+	no boss snipe, late Pandora's
+#####################################
+Seed: 
+	5GCCCV (287,149,025)
+	boss snipe, but late Pandora's
+#####################################
+Seed: 
+	5GD71V (287,185,390)
+	no WW
+#####################################
+Seed: 
+	5PC95F (299,150,090)
+	2/3/3; 2nd boss snipe available
+	no WW; match and keep :(
+#####################################
+Seed: 
+	5SP6GN (304,163,183)
+	meh; no boss snipe, late WW; 9 fights
+####################################
+Seed: 
+	5U9JMH (306,537,437)
+	no WW :(
+	3/2/3; boss snipe
+#####################################
+Seed: 
+	5UUBH3 (307,384,948)
+	3/3/3; 1 elite, 3 bosses, 5 common enemies
+	late WW :(
+#####################################
+Seed: 5WAL2L (309,583,316)
+	meh; no snipe, 9 combats, late WW
+#####################################
+Seed: 5WJSIF (309,977,095)
+9 combats (1 elite(s)):
+	2/2/5, no WW, no strength
+#####################################
+Seed: 
+	6A91ZV (330,525,820)
+	no snipe, meh relics, late pandora's
+#####################################
+Seed: 
+	6C7AP8 (333,451,973)
+	5/2/2
+#####################################
+Seed: 
+	6G85IT (339,491,033)
+	double snipe, but no WW :(
+#####################################
+Seed: 
+	6JEJHJ (344,267,264)
+	no boss snipe, 9 combats
+#####################################
+Seed: 
+	75J9LZ (375,982,669)
+	no double boss snipe, but late box
+#####################################
+Seed: 
+	79I49H (381,935,732)
+	no boss snipe, late box
+#####################################
+Seed: 
+	7CEU54 (386,296,579)
+	no snipe, late box
+#####################################

@@ -1,0 +1,101 @@
+Seed: 
+	FAY6C (22,978,772)
+	no WW
+#####################################
+Seed: 
+	UPG42 (44,566,867)
+	world record!
+#####################################
+Seed: 1A5RB2 (67,774,737)
+	no snipe; 9 fights
+#####################################
+Seed: 
+	1KPU1P (83,598,959)
+	no snipe, 9 fights
+#####################################
+Seed: 
+	1N4BD0 (87,221,680)
+	9 combats, no snipe
+#####################################
+Seed: 
+	26SJC6 (115,228,826)
+	no WW
+#####################################
+Seed: 37UZM5 (169,355,800)
+	9 combats, no snipe
+#####################################
+Seed: 
+	3AX667 (173,951,442)
+	9 combats, no WW
+#####################################
+Seed: 
+	3BFB83 (174,729,383)
+	no WW, double snipe, giant head
+#####################################
+Seed: 3J80UI (186,421,533)
+#####################################
+Seed: 
+	3NEU77 (192,716,027)
+	no WW
+#####################################
+Seed: 
+	40A6DT (210,524,083)
+	no double snipe and no early box
+#####################################
+Seed: 
+	46PMQ5 (220,148,080)
+	no WW, 9 combats, no snipe
+#####################################
+Seed: 
+	4BVJYH (227,905,072)
+	3/4/2; 3 bosses, 6 commons
+	early WW & Flexes; boss #2 Limit Break, early Seeing Red
+9 combats (0 elite(s)):
+	[2 Louse, Cultist, Slime Boss]
+	[Chosen, Spheric Guardian, Snecko, Collector]
+	[Orb Walker, Donu and Deca]
+9 relics:
+	[Burning Blood, NeowsBlessing, **Juzu Bracelet**, **WingedGreaves**, **Pandora's Box**]
+	[Centennial Puzzle, Pantograph, Mark of the Bloom, **Ancient Tea Set**]
+Shop relics:
+	[Mango, Art of War, Frozen Eye]
+	[Iron Wave, Rampage, **Flex**, Rage, Combust, Swift Strike, The Bomb]
+	[MealTicket, Ginger, Toolbox]
+	[**Whirlwind**, Rampage, Shrug It Off, **Flex**, Barricade, Finesse, Magnetism]
+
+	[White Beast Statue, Darkstone Periapt, Orrery]
+	[Anger, Uppercut, True Grit, *Spot Weakness*, Brutality, Jack of All Trades, Apotheosis]
+
+	[StoneCalendar, Shuriken, Medical Kit]
+	[Body Slam, Iron Wave, Armaments, True Grit, *Inflame*, Mind Blast, The Bomb]
+	[Question Card, TungstenRod, Membership Card]
+	[Body Slam, Perfected Strike, True Grit, Shrug It Off, Rupture, Flash of Steel, Apotheosis]
+	
+Boss relics:
+	[Ectoplasm, **Pandora's Box**, Velvet Choker] [Fiend Fire, Flame Barrier, Battle Trance, Flex, Berserk, Clash, Second Wind, Carnage, Burning Pact]
+	[*Sozu*, *Mark of Pain*, *SlaversCollar*]
+Events:
+	[Living Wall, Purifier, Golden Wing, World of Goop, Dead Adventurer]
+	[Nest, Back to Basics, NoteForYourself, Beggar, The Mausoleum]
+	[SensoryStone, Winding Halls, Falling, MindBloom, Mysterious Sphere, Fountain of Cleansing, Lab]
+True map path:
+	[M, ?, ?, ?/M, ?, R, ?, ?/T, T, R, ?/S, S, R, ?, R, BOSS]	5?, 2S, 2T, 4R
+	[M, M, ?, ?, ?/S, R, ?, R, T, ?, ?, R, R, M, R, BOSS]		5?, 1S, 1T, 5R
+	[M, ?, ?, ?, ?, R, ?/S, R, T, R, ?, ?, S, ?, R, BOSS]		7?, 2S, 1T, 4R
+Card choices:
+Floor 1: [True Grit, Pummel, Shockwave]
+Floor 4: [Clash, Armaments, Flame Barrier]
+Floor 16: [Fiend Fire, Brutality, Barricade] [ColorlessPotion]
+Floor 18: [**Seeing Red+**, Heavy Blade+, Warcry] [SkillPotion]
+Floor 19: [Warcry, Heavy Blade, Armaments] [SpeedPotion]
+Floor 28: [Writhe]
+Floor 31: [Heavy Blade+, Thunderclap+, Headbutt]
+Floor 33: [Juggernaut, **Limit Break**, Berserk]
+Floor 35: [Perfected Strike, Sword Boomerang, Shrug It Off+] [BlockPotion]
+Floor 36: [Thinking Ahead, The Bomb, Trip] [Panic Button, Apotheosis, Swift Strike] [Jack of All Trades, Master of Strategy, Forethought]
+Floor 48: [FairyPotion, FirePotion, DistilledChaosPotion]
+#####################################
+Seed: 
+	4FYKT1 (234,037,231)
+	no snipe, late Box
+#####################################
